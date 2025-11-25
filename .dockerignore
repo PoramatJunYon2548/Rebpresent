@@ -1,0 +1,10 @@
+text
+node_modules
+dist
+.quasar
+.git
+.gitignore
+npm-debug.log*
+yarn-debug.log*
+.DS_Store
+.env
