@@ -75,13 +75,13 @@ import axios from 'axios';
 const gitSteps = [ 
   {
    title: 'ชื่อ-นามสกุล',
-   detail: 'นายณัฐภูมิ หลู่จิ่ง'
+   detail: 'นาย ปรเมษฐ์ จันทร์ย้อน'
   }
  ];
 const dockerItems = [ 
   {
    title: 'รหัสนักศึกษา',
-   detail: '6604101329'
+   detail: '6604101348'
   }
 ];
 
