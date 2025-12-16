@@ -29,11 +29,11 @@ app.get('/api/demo', (req, res) => {
   res.json({
     git: {
       title: 'ชื่อ-นามสกุล',
-      detail: 'นายณัฐภูมิ หลู่จิ่ง'
+      detail: 'นายปรเมษฐ์ จันทร์ย้อน'
     },
     docker: {
       title: 'รหัสนักศึกษา',
-      detail: '6604101329'
+      detail: '6604101348'
     }
   });
 });
